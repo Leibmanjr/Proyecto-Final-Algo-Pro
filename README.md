@@ -20,6 +20,7 @@ Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre 
 
 ### El Objetivo de este proyecto es ofrecer un sistema robusto, eficiente y amigable que facilite la adminictracion diaria del parqueadero, elimine la gestion manual en papel, mejore el control del flujo vehicular y permita una facil auditoria administrativa.
 
+.contenedor(tex.aling:center;
   <p aling = <"center"> 
   <img src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q" width="200" height="200"> 
                         
