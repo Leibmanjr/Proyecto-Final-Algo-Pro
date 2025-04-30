@@ -9,7 +9,7 @@ Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre 
 
 
 
-  ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y" "a tu medida!"
+  ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
 * Registrar usuarios (con validacion estrictas de datos).
 * Ingresar y retirar vehiculos (resgistrando horas y generando cobros segun el tiempo del parqueo).
