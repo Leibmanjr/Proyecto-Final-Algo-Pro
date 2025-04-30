@@ -22,6 +22,7 @@ Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre 
 
 
   <img width="280" height="220" src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q"> 
+  imag { margin: auto; display: black; margin: botton 10px;}
   
                      
   
