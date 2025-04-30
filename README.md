@@ -22,10 +22,6 @@ Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre 
 
   <p aling = <"center"> 
   Texto alineado
-  <b>Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <br><br>
   <img src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q" width="200" height="200"> 
   </p>                         
