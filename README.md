@@ -1,15 +1,15 @@
 
-# 1. Proyecto Final "*Algoritmia y Programaciòn*"
+# Proyecto Final "*Algoritmia y Programaciòn*"
 
 
-## 2. Integrantes:
+## Integrantes:
 ### Leibman Andrade Cancio, (Estudiante de Ingenieria Industrial)
 Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre buscando mejorar, adquir nuevos conocimientos y adaptarse a los cambios. Es muy disciplinado y entiende la importancia de la constancia y la organizacion para alcanzar sus metas. Le gusta relacionarse con las personas, establecer vinculos positivos y crear ambientes de trabajo colaborativo.
 
 
 
 
-  ## 3. Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
+  ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
 * Registrar usuarios (con validacion estrictas de datos).
 * Ingresar y retirar vehiculos (resgistrando horas y generando cobros segun el tiempo del parqueo).
