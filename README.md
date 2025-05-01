@@ -6,8 +6,8 @@
 ### Leibman Andrade Cancio, (Estudiante de Ingenieria Industrial)
 Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre buscando mejorar, adquir nuevos conocimientos y adaptarse a los cambios. Es muy disciplinado y entiende la importancia de la constancia y la organizacion para alcanzar sus metas. Le gusta relacionarse con las personas, establecer vinculos positivos y crear ambientes de trabajo colaborativo.
 
-
-
+### Jhoiner Andres Rodriguez, (Estudiante de Ingenieria Industrial)
+Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, tengo la habilidad de adaptarme a los cambios y sacar lo mejor de cada uno de ellos, me gusta analizar problemas y encontrar soluciones, tambien me gusta trabajar de manera efectiva en equipo
 
   ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
