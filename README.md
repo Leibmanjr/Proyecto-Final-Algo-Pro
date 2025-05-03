@@ -8,7 +8,10 @@
 Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre buscando mejorar, adquir nuevos conocimientos y adaptarse a los cambios. Es muy disciplinado y entiende la importancia de la constancia y la organizacion para alcanzar sus metas. Le gusta relacionarse con las personas, establecer vinculos positivos y crear ambientes de trabajo colaborativo.
 
 ### Jhoiner Andres Rodriguez, (Estudiante de Ingenieria Industrial)
-Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, tengo la habilidad de adaptarme a los cambios y sacar lo mejor de cada uno de ellos, me gusta analizar problemas y encontrar soluciones, tambien me gusta trabajar de manera efectiva en equipo
+Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, tengo la habilidad de adaptarme a los cambios y sacar lo mejor de cada uno de ellos, me gusta analizar problemas y encontrar soluciones, tambien me gusta trabajar de manera efectiva en equipo.
+
+### Wilber Manco Rodríguez (Estudiante de Ingeniería Industrial)
+Se considera una persona con un constante aprendizaje, quien se destaca por tener una mente positiva, buscando soluciones a los problemas de manera calmada y con coherencia, y el cual busca ser una persona ejemplar y cumplir todas sus metas.
 
 ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
