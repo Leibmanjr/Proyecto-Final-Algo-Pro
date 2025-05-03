@@ -23,7 +23,7 @@ Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, ten
 
 <center>
 <img width="280" height="220" src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q"> 
-<center>
+</center>center>
 
   ## Licencia del software
 EasyParking "¡Rápido, sencillo ya tu medida!"está licenciada bajo CC BY-ND 4.0© 2 por Leibman Andrade Cancio, Jhoiner Rodríguez, Wilber Rodríguez 
