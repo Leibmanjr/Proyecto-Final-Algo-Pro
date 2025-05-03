@@ -21,7 +21,7 @@ Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, ten
 
 ### El Objetivo de este proyecto es ofrecer un sistema robusto, eficiente y amigable que facilite la adminictracion diaria del parqueadero, elimine la gestion manual en papel, mejore el control del flujo vehicular y permita una facil auditoria administrativa.
 
-<div> aling:"center"
+<div> "center"
 <img width="280" height="220" src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg"> 
 <div></div> 
 
