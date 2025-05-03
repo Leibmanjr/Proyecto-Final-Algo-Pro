@@ -22,13 +22,15 @@ Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, ten
 ### El Objetivo de este proyecto es ofrecer un sistema robusto, eficiente y amigable que facilite la adminictracion diaria del parqueadero, elimine la gestion manual en papel, mejore el control del flujo vehicular y permita una facil auditoria administrativa.
 
 <div style="text-align: center;">
-<img width="280" height="220" src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg" alt="Logo Easyparking")](https://postimg.cc/KK0bQ69Q"> 
+<img width="280" height="220" src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg" alt="Logo Easyparking"> 
 </div>
 
   ## Licencia del software
 EasyParking "¡Rápido, sencillo ya tu medida!"está licenciada bajo CC BY-ND 4.0© 2 por Leibman Andrade Cancio, Jhoiner Rodríguez, Wilber Rodríguez 
 
 ## Reporte de visión
+
+)](https://postimg.cc/KK0bQ69Q"
 
 Este proyecto consiste en el desarrollo de una aplicación web que permite a estudiantes y personal universitario gestionar sus actividades en la universidad de forma eficiente. El parqueadero presta servicio exclusivamente a vehículos automóviles y dispone de 64 espacios de parqueo. Actualmente, el registro de usuarios y cobros se realiza de forma manual, lo que genera ineficiencias y falta de documentación formal en las transacciones.
 
