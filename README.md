@@ -61,3 +61,7 @@ El sistema será desarrollado en grupos de tres integrantes, gestionado por el l
 - Los reportes exportados deben ser compatibles con programas de hoja de cálculo como Microsoft Excel o Google Sheets.
 - El sistema debe evitar pérdidas de información en caso de cierre inesperado.
 - La aplicación debe funcionar correctamente en sistemas operativos Windows, macOS y Linux.
+
+### Plan de proyecto
+![WhatsApp Image 2025-05-02 at 7 55 23 AM](https://github.com/user-attachments/assets/2bbac9f8-5c74-4231-ad9d-18d0abff1713)
+
