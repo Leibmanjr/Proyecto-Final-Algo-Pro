@@ -69,3 +69,56 @@ El sistema será desarrollado en grupos de tres integrantes, gestionado por el l
 ### Plan de proyecto
 ![WhatsApp Image 2025-05-02 at 7 55 23 AM](https://github.com/user-attachments/assets/2bbac9f8-5c74-4231-ad9d-18d0abff1713)
 
+## Objetivos y Propositos
+### ¿Cual es el objetivo principal de esta aplicacion?
+Desarrollar un *programa de consola en Python* para gestionar un parqueadero universitario que permita lo siguiente:
+- Registrar usuarios y vehiculos.
+- Gestionar ingresos y salidas.
+- calcular cobros.
+- Generar reportes administrativos.
+- Exportar datos a archivos CSV.
+
+### ¿Que problemas especificos estamos tratando de resolver con esta aplicacion?
+La administracion manual e ineficiente del parqueadero "registro en papel, sin facturacion ni reportes"
+La app automatiza el proceso, mejora la trazabilidad y elimina errores humanos.
+
+### ¿Quienes son los usuarios finales y que necesidades especificas tienen?
+- Usuarios del parqueadero (conductores de carros): necesitan ingresar y retirar vehiculos de forma rapida y recibir comprobantes.
+- Personal administrativo: necesitan reportes y control eficiente de usuarios, cobros, tiempos y disponibilidad.
+
+  ## Funcionalidades y Requisitos
+  ### ¿Puedes detallar las funcionalidades clave que debe tener la aplicacion?
+  - Registro de usuarios con validaciones estrictas.
+  - Registro de vehiculo vinculado al usuario.
+  - Ingreso de vehiculos (solo si el usuario esta registrado).
+  - Registro de vehiculos con calculo de cobros por hora y fracciòn.
+  - Generacion de recibos o factura en consola.
+  - Acceso restringido a administrador con reportes;
+     - Total de vehiculos registrados, retirados y activos.
+     - Total de pagos.
+     - Tiempo promedio de permanencia.
+     - Vehiculo con tiempo maximo y minimo de parqueo.
+  - Exportaciòn de reportes a CSV.
+  - Registro de logs detallados de todas las operaciones.
+ 
+  ### ¿Hay alguna funcionalidad opcional o deseada que no sea esencial?
+  El diseño visualmente amigable en consola puede ser mejorado pero no es esencial. Tambien, incluir graficos en los reportes podria ser deseable, pero no obligatorio.
+
+  ## Prioridades y Alcance
+  ### ¿Cuales son las caracteristicas mas criticas que debe tener la aplicaciòn en su primera versiòn?
+  - Registro de usuario y validacion.
+  - Registro de vehiculo y control de entrada o salida.
+  - Calculo de cobros con reglas claras.
+  - Generaciòn de recibos.
+  - Reportes basicos de administraciòn.
+ 
+    ### ¿Como preorizamos las diferentes caracteristicas y funcionalidades?
+    Preoridad alta: Flujo completo de ingreso y retiro con cobro.
+    Prioridad media: Funcionalidades administrativas.
+    Prioridad baja: aspectos visuales, funcionalidades avanzadas no solicitadas por ejemoplo, interfaz grafica.
+
+    ### ¿Existe un roadmap o plan de desarrollo a largo plazo para la aplicaciòn?
+    Si, el documento lo dividimos en dos entregas:
+    - Primera entrega (semana 8): se entro del punto 1 al 7, incluyendo requisitos y plan de proyecto.
+    - Segunda entrega (semana 16): Sofware conpleto completo con codigo, documentaciòn, manual, repositorio GitHub y la sustentacion.
+    
