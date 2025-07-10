@@ -86,39 +86,39 @@ La app automatiza el proceso, mejora la trazabilidad y elimina errores humanos.
 - Usuarios del parqueadero (conductores de carros): necesitan ingresar y retirar vehiculos de forma rapida y recibir comprobantes.
 - Personal administrativo: necesitan reportes y control eficiente de usuarios, cobros, tiempos y disponibilidad.
 
-  ## Funcionalidades y Requisitos
-  ### ¿Puedes detallar las funcionalidades clave que debe tener la aplicacion?
-  - Registro de usuarios con validaciones estrictas.
-  - Registro de vehiculo vinculado al usuario.
-  - Ingreso de vehiculos (solo si el usuario esta registrado).
-  - Registro de vehiculos con calculo de cobros por hora y fracciòn.
-  - Generacion de recibos o factura en consola.
-  - Acceso restringido a administrador con reportes;
-     - Total de vehiculos registrados, retirados y activos.
-     - Total de pagos.
-     - Tiempo promedio de permanencia.
-     - Vehiculo con tiempo maximo y minimo de parqueo.
-  - Exportaciòn de reportes a CSV.
-  - Registro de logs detallados de todas las operaciones.
+## Funcionalidades y Requisitos
+### ¿Puedes detallar las funcionalidades clave que debe tener la aplicacion?
+- Registro de usuarios con validaciones estrictas.
+- Registro de vehiculo vinculado al usuario.
+- Ingreso de vehiculos (solo si el usuario esta registrado).
+- Registro de vehiculos con calculo de cobros por hora y fracciòn.
+- Generacion de recibos o factura en consola.
+- Acceso restringido a administrador con reportes;
+    - Total de vehiculos registrados, retirados y activos.
+    - Total de pagos.
+    - Tiempo promedio de permanencia.
+    - Vehiculo con tiempo maximo y minimo de parqueo.
+- Exportaciòn de reportes a CSV.
+- Registro de logs detallados de todas las operaciones.
  
-  ### ¿Hay alguna funcionalidad opcional o deseada que no sea esencial?
-  El diseño visualmente amigable en consola puede ser mejorado pero no es esencial. Tambien, incluir graficos en los reportes podria ser deseable, pero no obligatorio.
+### ¿Hay alguna funcionalidad opcional o deseada que no sea esencial?
+El diseño visualmente amigable en consola puede ser mejorado pero no es esencial. Tambien, incluir graficos en los reportes podria ser deseable, pero no obligatorio.
 
-  ## Prioridades y Alcance
-  ### ¿Cuales son las caracteristicas mas criticas que debe tener la aplicaciòn en su primera versiòn?
-  - Registro de usuario y validacion.
-  - Registro de vehiculo y control de entrada o salida.
-  - Calculo de cobros con reglas claras.
-  - Generaciòn de recibos.
-  - Reportes basicos de administraciòn.
+## Prioridades y Alcance
+### ¿Cuales son las caracteristicas mas criticas que debe tener la aplicaciòn en su primera versiòn?
+- Registro de usuario y validacion.
+- Registro de vehiculo y control de entrada o salida.
+- Calculo de cobros con reglas claras.
+- Generaciòn de recibos.
+- Reportes basicos de administraciòn.
  
-    ### ¿Como preorizamos las diferentes caracteristicas y funcionalidades?
-    Preoridad alta: Flujo completo de ingreso y retiro con cobro.
-    Prioridad media: Funcionalidades administrativas.
-    Prioridad baja: aspectos visuales, funcionalidades avanzadas no solicitadas por ejemoplo, interfaz grafica.
+### ¿Como preorizamos las diferentes caracteristicas y funcionalidades?
+Preoridad alta: Flujo completo de ingreso y retiro con cobro.
+Prioridad media: Funcionalidades administrativas.
+Prioridad baja: aspectos visuales, funcionalidades avanzadas no solicitadas por ejemoplo, interfaz grafica.
 
-    ### ¿Existe un roadmap o plan de desarrollo a largo plazo para la aplicaciòn?
-    Si, el documento lo dividimos en dos entregas:
-    - Primera entrega (semana 8): se entro del punto 1 al 7, incluyendo requisitos y plan de proyecto.
-    - Segunda entrega (semana 16): Sofware conpleto completo con codigo, documentaciòn, manual, repositorio GitHub y la sustentacion.
+### ¿Existe un roadmap o plan de desarrollo a largo plazo para la aplicaciòn?
+Si, el documento lo dividimos en dos entregas:
+- Primera entrega (semana 8): se entro del punto 1 al 7, incluyendo requisitos y plan de proyecto.
+- Segunda entrega (semana 16): Sofware conpleto completo con codigo, documentaciòn, manual, repositorio GitHub y la sustentacion.
     
