@@ -122,3 +122,77 @@ Si, el documento lo dividimos en dos entregas:
 - Primera entrega (semana 8): se entro del punto 1 al 7, incluyendo requisitos y plan de proyecto.
 - Segunda entrega (semana 16): Sofware conpleto completo con codigo, documentaciòn, manual, repositorio GitHub y la sustentacion.
     
+## Limitaciones y restricciones
+### ¿Hay limitaciones tecnológicas que debamos considerar?
+Se han identificado limitaciones como que el sistema se desarrolla en tecnologías básicas como Python, cosa que no deja ir más allá que a un sistema complejo.
+La aplicación está diseñada para ejecutarse en entorno de consola, lo que limita la experiencia visual y la interacción con el usuario.
+
+### ¿Existen restricciones de presupuesto o tiempo para el desarrollo?
+Sí, el desarrollo se realizará dentro del tiempo académico asignado, con dos entregas clave (semana 8 y semana 16).
+No se cuenta con un presupuesto económico. Todo el desarrollo se basa en herramientas y recursos gratuitos.
+El equipo está conformado por estudiantes con tiempo limitado fuera del horario de clases.
+
+### ¿Hay normativas de cumplimiento o seguridad que debemos seguir?
+Como se trata de un proyecto académico, no se requiere cumplir con normativas oficiales, sin embargo, se implementarán buenas prácticas de seguridad, como la validación estricta de datos del usuario, el control de acceso básico para reportes administrativos y el registro de logs de actividad para fines de auditoría interna.
+
+## Interfaz y experiencia del usuario
+### ¿Hay diseños o prototipos ya creados para la interfaz de usuario?
+La aplicación se desarrollará inicialmente como una interfaz de línea de comandos (CLI), por lo que el diseño se enfocará en una estructura clara de menús y mensajes informativos para facilitar la navegación.
+
+### ¿Cómo imaginas la experiencia del usuario al interactuar con la aplicación?
+La experiencia será sencilla, directa y funcional:
+- El usuario interactuará mediante opciones numeradas y entradas de texto.
+- Se prioriza la claridad de las instrucciones y la validación inmediata de errores.
+- El flujo será guiado, con pasos bien definidos para cada acción (registro, ingreso, cobro, etc.).
+- Se buscará reducir al mínimo los comandos necesarios por parte del usuario.
+
+### ¿Existen estándares de accesibilidad o internacionalización que debemos cumplir?
+Dado que se trata de un proyecto académico en consola, no se aplicarán estándares formales de accesibilidad ni de internacionalización.
+
+## Pruebas y calidad
+### ¿Qué nivel de calidad se espera de la aplicación?
+Se espera que la aplicación cumpla con los siguientes estándares básicos de calidad:
+- Correcto funcionamiento de todas las funcionalidades principales (registro, ingreso, cobro, reportes).
+- Interfaz clara y sin errores en la consola.
+- Validación de entradas y manejo adecuado de errores.
+- Resultados consistentes y confiables en cálculos y reportes.
+
+### ¿Cuáles son los criterios para las pruebas de aceptación del usuario?
+Un conjunto mínimo de criterios incluye:
+- El flujo completo de ingreso y salida de vehículos debe realizarse sin fallos.
+- Los cobros calculados deben ser precisos de acuerdo con las reglas definidas.
+- La aplicación debe permitir generar recibos y exportar reportes CSV correctamente.
+- Todas las opciones del menú deben estar accesibles y funcionar como se espera.
+- Validaciones deben impedir entradas incorrectas (por ejemplo, registrar un vehículo sin usuario).
+
+### ¿Cómo gestionaremos las pruebas y la solución de errores durante el desarrollo?
+Se realizarán pruebas manuales después de cada módulo (por ejemplo, después del módulo de registro o cobro).
+Se mantendrá una lista de errores detectados con su estado (pendiente/resuelto) en una hoja compartida o repositorio.
+Se utilizarán casos de prueba simples, definidos previamente, para validar entradas válidas e inválidas.
+Se realizarán revisiones en equipo antes de cada entrega parcial para garantizar la calidad general del sistema.
+
+## Riesgos y mitigación
+### ¿Qué riesgos potenciales ves en el proyecto?
+Retrasos en el desarrollo por carga académica o falta de tiempo.
+Errores en la lógica de cobro o validaciones.
+Falta de experiencia del equipo con ciertas tecnologías.
+Desacuerdos en la coordinación del equipo.
+
+### ¿Cómo podemos mitigar estos riesgos de manera proactiva?
+Dividir el trabajo por actas y asignar responsables claros.
+Establecer reuniones semanales para revisar avances.
+Validar funcionalidades críticas (registro, cobros) con múltiples pruebas.
+Documentar el código para facilitar su comprensión entre compañeros.
+
+### ¿Hay planes de contingencia en caso de problemas críticos durante el desarrollo?
+Sí. Tener copias de seguridad del proyecto en la nube y en local. Si hay un fallo crítico en una entrega, presentar una versión funcional mínima (MVP) aunque falten detalles. Mantener una lista de bugs y tareas pendientes para priorizar en caso de contratiempos.
+
+## Colaboración y comunicación
+### ¿Cómo será la comunicación entre el equipo de desarrollo y tú?
+La comunicación se realizará principalmente por WhatsApp y/o Google Meet para reuniones rápidas. Se organizarán reuniones semanales o según necesidad para revisar avances, dividir tareas y resolver dudas.
+Se utilizará una herramienta como GitHub y WhatsApp para registrar el progreso, bugs y pendientes.
+
+### ¿Dónde se almacenará el proyecto y como será su versionado?
+El proyecto se almacenará en un repositorio en GitHub para asegurar el acceso y control de versiones.
+Cada integrante trabajará en ramas separadas (por módulo o funcionalidad), usando Git como sistema de control de versiones.
+Habrá copias de seguridad periódicas en la nube.
