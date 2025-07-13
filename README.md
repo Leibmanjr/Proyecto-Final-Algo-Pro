@@ -34,6 +34,15 @@ EasyParking "¡Rápido, sencillo ya tu medida!"está licenciada bajo CC BY-ND 4.
 
 ## Reporte de visión
 Este proyecto consiste en el desarrollo de una aplicación web que permite a estudiantes y personal universitario gestionar sus actividades en la universidad de forma eficiente. El parqueadero presta servicio exclusivamente a vehículos automóviles y dispone de 64 espacios de parqueo. Actualmente, el registro de usuarios y cobros se realiza de forma manual, lo que genera ineficiencias y falta de documentación formal en las transacciones.
+Se digitalizará el proceso completo de registro, ingreso, salida y cobro de vehículos, permitiendo mayor control, trazabilidad y organización.
+- Los reportes administrativos podrán exportarse en formato .CSV
+- Solo los usuarios registrados podrán registrar vehículos y hacer uso del parqueadero.
+- La aplicación será ejecutada localmente en consola, y el acceso se realizará mediante inicio de sesión con credenciales validadas.
+- Los superusuarios contarán con un menú especial con opciones administrativas y generación de reportes.
+- Usuarios generales: Registran su vehículo, ingresan o retiran el mismo, y visualizan su recibo.
+- Superusuarios: Gestionan reportes, acceden al historial del sistema y exportan los datos.
+
+El equipo de desarrollo está compuesto por tres integrantes. El líder del equipo es Jhoiner Andrés Rodriguéz, quien se encarga de la coordinación de tareas, control de versiones y comunicación general.
 
 ### Objetivos
 - Automatizar el registro de usuarios que ingresan y retiran vehículos del parqueadero.
