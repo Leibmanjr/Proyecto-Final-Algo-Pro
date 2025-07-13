@@ -76,7 +76,7 @@ El sistema será desarrollado en grupos de tres integrantes, gestionado por el l
 - La aplicación debe funcionar correctamente en sistemas operativos Windows, macOS y Linux.
 
 ### Plan de proyecto
-![WhatsApp Image 2025-05-02 at 7 55 23 AM](https://github.com/user-attachments/assets/2bbac9f8-5c74-4231-ad9d-18d0abff1713)
+![Diagrama de grant](https://github.com/user-attachments/assets/ecf23210-4765-4dcd-8114-c5ff0fdbe886)
 
 ## ¿Qué tecnologías se usan para este proyecto?
 ### Este proyecto está construido con:
