@@ -8,7 +8,7 @@
 Es una persona con muy buena actitud y abierta al aprendizaje continuo, siempre buscando mejorar, adquir nuevos conocimientos y adaptarse a los cambios. Es muy disciplinado y entiende la importancia de la constancia y la organizacion para alcanzar sus metas. Le gusta relacionarse con las personas, establecer vinculos positivos y crear ambientes de trabajo colaborativo. Actualmente estoy cursando el sexto semestre y soy de la seccional de Urabà.
 
 ### Jhoiner Andres Rodriguez, (Estudiante de Ingenieria Industrial)
-Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, tengo la habilidad de adaptarme a los cambios y sacar lo mejor de cada uno de ellos, me gusta analizar problemas y encontrar soluciones, tambien me gusta trabajar de manera efectiva en equipo. Actualmente estoy cursando 4 semestre y estoy matriculado en la seccional uraba (turbo)
+Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, tengo la habilidad de adaptarme a los cambios y sacar lo mejor de cada uno de ellos, me gusta analizar problemas y encontrar soluciones, tambien me gusta trabajar de manera efectiva en equipo.
 
 ### Wilber Manco Rodríguez (Estudiante de Ingeniería Industrial)
 Perteneciente a la seccional Occidente en Santa Fe de Antioquia, actualmente está cursando el 3er semestre de Ingeniería Industrial. Se considera una persona con un constante aprendizaje, quien se destaca por tener una mente positiva, buscando soluciones a los problemas de manera calmada y con coherencia, y el cual busca ser una persona ejemplar y cumplir todas sus metas.
@@ -77,6 +77,14 @@ El sistema será desarrollado en grupos de tres integrantes, gestionado por el l
 
 ### Plan de proyecto
 ![WhatsApp Image 2025-05-02 at 7 55 23 AM](https://github.com/user-attachments/assets/2bbac9f8-5c74-4231-ad9d-18d0abff1713)
+
+## ¿Qué tecnologías se usan para este proyecto?
+### Este proyecto está construido con:
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
 ## Objetivos y Propositos
 ### ¿Cual es el objetivo principal de esta aplicacion?
