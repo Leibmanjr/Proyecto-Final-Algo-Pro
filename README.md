@@ -13,7 +13,7 @@ Soy una persona proactiva que siempre busca a mejorar en todos los aspectos, ten
 ### Wilber Manco Rodríguez (Estudiante de Ingeniería Industrial)
 Perteneciente a la seccional Occidente en Santa Fe de Antioquia, actualmente está cursando el 3er semestre de Ingeniería Industrial. Se considera una persona con un constante aprendizaje, quien se destaca por tener una mente positiva, buscando soluciones a los problemas de manera calmada y con coherencia, y el cual busca ser una persona ejemplar y cumplir todas sus metas.
 
-## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
+## Nombre del proyecto: EasyParking "¡Rapido, sencillo y  a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
 * Registrar usuarios (con validacion estrictas de datos).
 * Ingresar y retirar vehiculos (resgistrando horas y generando cobros segun el tiempo del parqueo).
